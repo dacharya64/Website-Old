@@ -1,2 +1,4 @@
 #Portfolio
-My portfolio site based on Worthy. Visit my site at www.devi-a.com.
+An older version of my portfolio site. 
+
+For the latest version with up-to-date information, visit www.devi-a.com.
